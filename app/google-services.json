@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "913354797870",
+    "firebase_url": "https://lifequotes-2c635.firebaseio.com",
+    "project_id": "lifequotes-2c635",
+    "storage_bucket": "lifequotes-2c635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913354797870:android:46f5cf6df6c2ebc0",
+        "android_client_info": {
+          "package_name": "com.example.karen.lifequotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913354797870-jiqtg9m95acr32un32lamqf96rorboh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karen.lifequotes",
+            "certificate_hash": "d21395abfbdffdef8d1e785a970c41050fcd18b4"
+          }
+        },
+        {
+          "client_id": "913354797870-tc2na11qa6p3f2eks3ddpvlgdvtddeva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3DNEhESgLDKr2ZvexDpFHKWH_Okxe3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913354797870-tc2na11qa6p3f2eks3ddpvlgdvtddeva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
